@@ -15,3 +15,6 @@ To run this project, you need to have Python installed along with the required p
 ```bash  
 pip install -r requirements.txt
   
+git clone https://github.com/your-username/my-blobs-project.git
+cd my-blobs-project
+python custom_clustering.py
